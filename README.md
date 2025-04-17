@@ -2,6 +2,15 @@
 
 A complete Library Book Tracker system built with PHP and MySQL for DBMS university course. This CRUD-based application helps manage books, borrowers, and borrow transactions.
 
+## Demo
+
+Watch the demo of the Library Book Tracker system here: [YouTube Video](https://youtu.be/uxtTzpkZb_0)
+
+
+## Developed For
+- University DBMS Course Project
+
+
 ## Features
 
 ### Book Management
@@ -95,5 +104,3 @@ library_tracker/
    - Return books and automatically update availability
    - View borrow history, filter by status (active, returned, overdue)
 
-## Developed For
-- University DBMS Course Project 
